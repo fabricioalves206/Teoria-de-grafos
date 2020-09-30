@@ -1,4 +1,4 @@
-métodos de teoria de grafos implementados em c/c++:\n
+<p>métodos de teoria de grafos implementados em c/c++:<\p>
 case 1: verifica se um grafo é regular - matriz de adjacência
 case 2: verifica se um grafo é k-regular - matriz de incidência
 case 3: verifica se o grafo é euleriano - matriz de adjacência
