@@ -1,11 +1,13 @@
-<p>métodos de teoria de grafos implementados em c/c++:</p>
-<p>case 1: verifica se um grafo é regular - matriz de adjacência</p>
-<p>case 2: verifica se um grafo é k-regular - matriz de incidência</p>
-<p>case 3: verifica se o grafo é euleriano - matriz de adjacência</p>
-<p>case 4: verifica se o grafo é euleriano - matriz de incidência</p>
-<p>case 5: calcula a quantidade de componentes conexas existentes em um grafo simples - matriz de adjacência</p>
-<p>case 6: calcula a quantidade de componentes conexas existentes em um grafo simples - matriz de incidência</p>
-<p>case 7: verifica se o grafo é completo - lista de adjacência</p>
-<p>case 8: encontra o complemento de um grafo -  matriz de djacência</p>
-<p>case 9: verifica se um grafo simples é bipartido - matriz de adjacência</p>
-<p>case 10: calcula a matriz de alcançabilidade - matriz de incidência</p>
+**Graph theory coding in c/c++**
+In this application, you must to insert an adjacency matrix or an incidence matrix. Each methode will need a type of matrix that is indicated between parenthesis. After that, you have to choose a methode of the theory that will make the following procedures :
+
++ Case 1: checks if the graph is regular (adjacency matrix)
++ Case 2: checks if the graph is k-regular (incidence matrix)
++ Case 3: checks if the graph is eulerian (adjacency matrix)
++ Case 4: checks if the graph is eulerian (incidence matrix)
++ Case 5: calculates the number of connected components existing in a simple graph (adjacency matrix)
++ Case 6: calculates the number of connected components existing in a simple graph (incidence matrix)
++ Case 7: checks if the graph is complete (adjacency matrix)
++ Case 8: finds the complement of a graph (adjacency matrix)
++ Case 9: checks if a simple graph is bipartite (adjacency matrix)
++ Case 10: calculates the reachability matrix (incidence matrix)
